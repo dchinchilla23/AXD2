@@ -1,0 +1,101 @@
+numero_guia,ciudad_origen,ciudad_destino,direccion_entrega,nombre_destinatario,fecha_estimada_entrega,estado_envio
+100000,Bogota,Cali,Avenida Siempre Viva #81-67,Juan Pérez,2025-07-07,Cancelado
+100001,Cali,Bogota,Carrera 45 #32-29,Laura Torres,2025-07-05,Entregado
+100002,Cali,Bogota,Transversal 8 #41-42,Andrés Rojas,2025-07-11,Entregado
+100003,Medellin,Cali,Transversal 8 #78-17,Carlos Ruiz,2025-07-07,En ruta
+100004,Bogota,Medellin,Transversal 8 #32-73,María Gómez,2025-07-09,Por recoger
+100005,Medellin,Cali,Transversal 8 #69-45,Laura Torres,2025-07-05,Entregado
+100006,Medellin,Bogota,Carrera 45 #56-89,Andrés Rojas,2025-07-03,Por recoger
+100007,Bogota,Medellin,Carrera 45 #1-95,Juan Pérez,2025-07-05,En ruta
+100008,Medellin,Cali,Avenida Siempre Viva #12-93,Andrés Rojas,2025-07-06,Por recoger
+100009,Cali,Medellin,Carrera 45 #10-66,Juan Pérez,2025-07-04,Cancelado
+100010,Bogota,Medellin,Calle 10 #93-34,Andrés Rojas,2025-07-06,Cancelado
+100011,Bogota,Cali,Carrera 45 #34-23,Andrés Rojas,2025-07-11,Cancelado
+100012,Bogota,Cali,Calle 123 #45-16,Diana Díaz,2025-07-09,Por recoger
+100013,Medellin,Cali,Transversal 8 #39-61,Laura Torres,2025-07-05,En ruta
+100014,Medellin,Bogota,Calle 123 #64-25,Juan Pérez,2025-07-03,En ruta
+100015,Bogota,Medellin,Calle 10 #16-35,Laura Torres,2025-07-07,Entregado
+100016,Medellin,Bogota,Transversal 8 #27-24,María Gómez,2025-07-06,Entregado
+100017,Medellin,Bogota,Calle 10 #30-62,Diana Díaz,2025-07-04,Por recoger
+100018,Medellin,Cali,Avenida Siempre Viva #92-61,Carlos Ruiz,2025-07-02,Por recoger
+100019,Cali,Bogota,Avenida Siempre Viva #66-32,María Gómez,2025-07-10,Cancelado
+100020,Cali,Bogota,Transversal 8 #34-75,Laura Torres,2025-07-08,Entregado
+100021,Medellin,Cali,Carrera 45 #64-24,Andrés Rojas,2025-07-05,Por recoger
+100022,Bogota,Cali,Avenida Siempre Viva #12-43,María Gómez,2025-07-04,Por recoger
+100023,Bogota,Medellin,Avenida Siempre Viva #21-54,Diana Díaz,2025-07-10,En ruta
+100024,Cali,Medellin,Calle 123 #61-5,Juan Pérez,2025-07-09,Cancelado
+100025,Bogota,Cali,Calle 123 #97-77,María Gómez,2025-07-10,Cancelado
+100026,Medellin,Bogota,Transversal 8 #42-86,Diana Díaz,2025-07-05,Cancelado
+100027,Bogota,Medellin,Carrera 45 #99-55,Diana Díaz,2025-07-03,Por recoger
+100028,Bogota,Cali,Calle 10 #92-86,Diana Díaz,2025-07-11,Por recoger
+100029,Bogota,Cali,Calle 123 #66-2,Diana Díaz,2025-07-09,Por recoger
+100030,Cali,Medellin,Calle 10 #8-3,Juan Pérez,2025-07-11,Por recoger
+100031,Bogota,Medellin,Calle 10 #27-8,Andrés Rojas,2025-07-02,Cancelado
+100032,Cali,Medellin,Carrera 45 #28-22,Andrés Rojas,2025-07-03,En ruta
+100033,Cali,Bogota,Avenida Siempre Viva #76-28,Carlos Ruiz,2025-07-08,Por recoger
+100034,Medellin,Cali,Avenida Siempre Viva #92-84,Carlos Ruiz,2025-07-07,Entregado
+100035,Cali,Bogota,Carrera 45 #8-97,Andrés Rojas,2025-07-05,En ruta
+100036,Cali,Bogota,Carrera 45 #1-40,Diana Díaz,2025-07-08,Entregado
+100037,Medellin,Cali,Avenida Siempre Viva #55-73,María Gómez,2025-07-10,Entregado
+100038,Cali,Bogota,Calle 10 #41-7,Diana Díaz,2025-07-11,Por recoger
+100039,Medellin,Cali,Calle 10 #67-39,María Gómez,2025-07-05,Entregado
+100040,Bogota,Medellin,Transversal 8 #30-53,Diana Díaz,2025-07-04,En ruta
+100041,Cali,Bogota,Calle 10 #41-22,Diana Díaz,2025-07-07,En ruta
+100042,Cali,Bogota,Transversal 8 #79-94,Andrés Rojas,2025-07-06,Por recoger
+100043,Cali,Bogota,Avenida Siempre Viva #33-53,Carlos Ruiz,2025-07-07,Por recoger
+100044,Bogota,Cali,Carrera 45 #19-31,Juan Pérez,2025-07-05,Por recoger
+100045,Medellin,Cali,Transversal 8 #93-47,Juan Pérez,2025-07-08,Entregado
+100046,Cali,Medellin,Calle 123 #40-41,Juan Pérez,2025-07-11,Cancelado
+100047,Medellin,Cali,Transversal 8 #41-15,María Gómez,2025-07-07,Cancelado
+100048,Cali,Medellin,Carrera 45 #40-4,Juan Pérez,2025-07-02,En ruta
+100049,Medellin,Cali,Calle 10 #80-69,Laura Torres,2025-07-03,En ruta
+100050,Bogota,Medellin,Avenida Siempre Viva #62-69,Laura Torres,2025-07-10,En ruta
+100051,Bogota,Medellin,Calle 10 #73-89,María Gómez,2025-07-07,Entregado
+100052,Cali,Medellin,Calle 10 #24-37,Carlos Ruiz,2025-07-02,Por recoger
+100053,Cali,Medellin,Carrera 45 #60-99,Diana Díaz,2025-07-04,Entregado
+100054,Cali,Bogota,Calle 123 #97-50,Diana Díaz,2025-07-06,En ruta
+100055,Bogota,Cali,Avenida Siempre Viva #36-38,Diana Díaz,2025-07-07,Por recoger
+100056,Bogota,Cali,Transversal 8 #33-4,Laura Torres,2025-07-10,Por recoger
+100057,Cali,Bogota,Calle 123 #87-41,Carlos Ruiz,2025-07-05,Por recoger
+100058,Cali,Bogota,Transversal 8 #48-73,María Gómez,2025-07-04,En ruta
+100059,Bogota,Medellin,Calle 10 #96-95,Juan Pérez,2025-07-09,En ruta
+100060,Bogota,Cali,Calle 10 #56-80,Diana Díaz,2025-07-02,Cancelado
+100061,Bogota,Medellin,Transversal 8 #94-61,Diana Díaz,2025-07-07,En ruta
+100062,Cali,Bogota,Transversal 8 #35-25,Andrés Rojas,2025-07-06,En ruta
+100063,Cali,Medellin,Calle 123 #67-74,Juan Pérez,2025-07-02,Entregado
+100064,Cali,Medellin,Calle 123 #42-19,María Gómez,2025-07-10,Entregado
+100065,Bogota,Medellin,Transversal 8 #25-17,Andrés Rojas,2025-07-08,En ruta
+100066,Cali,Medellin,Carrera 45 #64-25,Laura Torres,2025-07-09,En ruta
+100067,Medellin,Bogota,Calle 123 #89-5,Carlos Ruiz,2025-07-09,Por recoger
+100068,Bogota,Medellin,Carrera 45 #79-56,Juan Pérez,2025-07-04,Entregado
+100069,Medellin,Bogota,Calle 123 #37-69,María Gómez,2025-07-03,En ruta
+100070,Bogota,Cali,Carrera 45 #75-57,Juan Pérez,2025-07-03,Cancelado
+100071,Bogota,Medellin,Carrera 45 #75-57,Juan Pérez,2025-07-06,Por recoger
+100072,Medellin,Cali,Calle 123 #95-10,Laura Torres,2025-07-06,Cancelado
+100073,Bogota,Cali,Calle 123 #36-87,Andrés Rojas,2025-07-09,En ruta
+100074,Bogota,Cali,Carrera 45 #12-33,Andrés Rojas,2025-07-02,Por recoger
+100075,Cali,Medellin,Avenida Siempre Viva #97-98,Juan Pérez,2025-07-08,Cancelado
+100076,Cali,Bogota,Calle 123 #14-24,Juan Pérez,2025-07-04,Entregado
+100077,Cali,Medellin,Transversal 8 #1-5,Diana Díaz,2025-07-03,En ruta
+100078,Cali,Medellin,Carrera 45 #76-4,Carlos Ruiz,2025-07-06,Entregado
+100079,Cali,Medellin,Transversal 8 #64-77,Carlos Ruiz,2025-07-10,Por recoger
+100080,Cali,Bogota,Avenida Siempre Viva #85-77,Diana Díaz,2025-07-09,Entregado
+100081,Medellin,Cali,Calle 10 #78-2,Andrés Rojas,2025-07-11,En ruta
+100082,Medellin,Bogota,Avenida Siempre Viva #53-24,Laura Torres,2025-07-10,En ruta
+100083,Cali,Medellin,Calle 123 #60-97,Juan Pérez,2025-07-11,En ruta
+100084,Medellin,Cali,Calle 123 #14-48,Carlos Ruiz,2025-07-10,Entregado
+100085,Cali,Medellin,Transversal 8 #21-67,María Gómez,2025-07-03,En ruta
+100086,Cali,Bogota,Avenida Siempre Viva #65-41,Diana Díaz,2025-07-05,Cancelado
+100087,Medellin,Cali,Carrera 45 #43-78,Carlos Ruiz,2025-07-04,Por recoger
+100088,Cali,Bogota,Carrera 45 #97-69,Juan Pérez,2025-07-07,En ruta
+100089,Cali,Medellin,Calle 10 #100-67,Diana Díaz,2025-07-03,En ruta
+100090,Medellin,Cali,Calle 10 #91-80,Laura Torres,2025-07-06,En ruta
+100091,Cali,Bogota,Avenida Siempre Viva #72-31,María Gómez,2025-07-03,Por recoger
+100092,Cali,Bogota,Avenida Siempre Viva #24-76,Laura Torres,2025-07-08,En ruta
+100093,Cali,Bogota,Calle 10 #41-32,Diana Díaz,2025-07-05,Cancelado
+100094,Bogota,Medellin,Calle 10 #4-38,Carlos Ruiz,2025-07-07,Cancelado
+100095,Cali,Medellin,Avenida Siempre Viva #84-47,María Gómez,2025-07-03,Entregado
+100096,Cali,Bogota,Transversal 8 #96-14,Carlos Ruiz,2025-07-10,Entregado
+100097,Cali,Bogota,Calle 123 #58-48,Juan Pérez,2025-07-11,Cancelado
+100098,Cali,Bogota,Transversal 8 #92-46,María Gómez,2025-07-04,En ruta
+100099,Bogota,Cali,Carrera 45 #14-56,Diana Díaz,2025-07-02,Cancelado

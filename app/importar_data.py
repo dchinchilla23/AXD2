@@ -2,10 +2,9 @@ import csv
 from sqlalchemy.orm import Session
 from app import database, models
 
-# Ruta del CSV generado (ajusta si lo moviste)
-csv_path = "entregas_simuladas_ok.csv"
+csv_path = "C:/Users/Ingeniero Diego/Documents/Pruebas/AXD2/entregas_simuladas_clean.csv"
 
-# Abrir conexión a la base de datos
+# Abrir conexion a la base de datos
 db: Session = database.SessionLocal()
 
 # Leer e insertar cada fila del CSV
